@@ -28,7 +28,7 @@ html, body {
 .discord {
   position: fixed;
   display: block;
-  right: 64px;
+  right: 120px;
   bottom: 14px;
   svg {
     width: 32px;
