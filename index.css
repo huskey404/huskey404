@@ -24,15 +24,16 @@ html, body {
   }
 }
 
-// dribbble - twitter
-.dribbble {
+
+.discord {
   position: fixed;
   display: block;
-  right: 20px;
-  bottom: 20px;
-  img {
-    display: block;
-    height: 28px;
+  right: 64px;
+  bottom: 14px;
+  svg {
+    width: 32px;
+    height: 32px;
+    fill: #5865F2;
   }
 }
 .yt {
